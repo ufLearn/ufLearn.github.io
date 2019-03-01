@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[github中README.md文件写法解析]]></title>
+    <url>%2F2019%2F03%2F01%2Fgithub%E4%B8%ADREADME-md%E6%96%87%E4%BB%B6%E5%86%99%E6%B3%95%E8%A7%A3%E6%9E%90%2F</url>
+    <content type="text"><![CDATA[自从开始玩GitHub以来，就越来越感觉它有爱。最近对它的README.md文件颇为感兴趣。便写下这贴，帮助更多的还不会编写README文件的同学们。 README文件后缀名为md。md是markdown的缩写，markdown是一种编辑博客的语言。用惯了可视化的博客编辑器（比如CSDN博客，囧），这种编程式的博客编辑方案着实让人眼前一亮。不过GitHub支持的语法在标准markdown语法的基础上做了修改，称为Github Flavored Markdown，简称GFM。参考资料：https://blog.csdn.net/u012234115/article/details/41778701https://github.com/guodongxiaren/README]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F03%2F01%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
